@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
+  "versionCode": 5,
+  "versionName": "1.4",
   "apk": "https://github.com/kayky05/grafite-deck-releases/releases/latest/download/GrafiteDeck.apk",
-  "notas": "Pausar e marcar a gravação, alertas com vibração, miniatura da cena, atalhos, câmera virtual e replay, medidor do mic, vários PCs salvos e layout deitado."
+  "notas": "Confirmação antes de apagar um PC salvo e aviso de versão nova mais rápido (confere a cada hora)."
 }
