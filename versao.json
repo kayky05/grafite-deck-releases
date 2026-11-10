@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "apk": "https://github.com/kayky05/grafite-deck-releases/releases/latest/download/GrafiteDeck.apk",
-  "notas": "Confirmação antes de apagar um PC salvo e aviso de versão nova mais rápido (confere a cada hora)."
+  "notas": "Conecta pelo QR mesmo quando o OBS manda IPv6: o app acha o PC pelo Wi-Fi sozinho."
 }
